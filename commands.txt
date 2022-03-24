@@ -1,0 +1,1 @@
+python pyhanabi/tools/eval_model.py --weight1 models/icml_OBL1/OFF_BELIEF1_SHUFFLE_COLOR0_BZA0_BELIEF_a/model0.pthw
